@@ -3,7 +3,7 @@ from spire.xls.common import *
 import os
 
 
-# Chanen based on your requirement
+# Change based on your requirement
 inputFile = "/var/myapp/index.xlsx"
 outputFile = "/var/www/html/index.html"
 
